@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P100",
+      "libelle": "Café",
+      "prixUnitaire": 500.5
+    },
+    {
+      "id": 2,
+      "code": "P200",
+      "libelle": "Thé",
+      "prixUnitaire": 500.5
+    },
+    {
+      "id": 3,
+      "code": "P300",
+      "libelle": "Jus d'orange",
+      "prixUnitaire": 500.5
+    },
+    {
+      "id": 4,
+      "code": "P400",
+      "libelle": "Coca Cola",
+      "prixUnitaire": 500.5
+    },
+    {
+      "id": 5,
+      "code": "P500",
+      "libelle": "Eau gazifié",
+      "prixUnitaire": 500.5
+    },
+    {
+      "id": 9,
+      "code": "P900",
+      "libelle": "Jus de Pomme",
+      "prixUnitaire": 500.5
+    }
+  ]
+}
